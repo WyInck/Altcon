@@ -1,0 +1,16 @@
+## Interface: 80100
+## Title: Altcon
+## Version: 3.07
+## Author: Abin
+## SavedVariables: AltconDB
+
+Includes\LibAddonManager.lua
+Includes\LibItemQuery.lua
+Includes\VirtualScrollList-1.0.lua
+Includes\LibServerResetTime.lua
+
+Localization.lua
+Core.lua
+MainFrame.lua
+
+LDB\Embeds.xml
